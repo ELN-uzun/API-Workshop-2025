@@ -7,7 +7,7 @@ It provides example scripts to learn how to interact with eLabFTW using its REST
 
 The repo contains scripts to:
 
-- Cound Resources
+- Count Resources
 - Create Resources
 - Create Experiments
 - Export Experiments as PDF files
