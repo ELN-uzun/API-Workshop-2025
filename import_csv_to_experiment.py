@@ -6,7 +6,8 @@
 #
 # This script reads a CSV file containing a list of experiments
 # and either creates new experiments or updates existing ones.
-#
+# When no ID in the CSV file is provided a new experiment will be created.
+# When an experiment ID of an existing experiment is provided in the CSV file, the existing experiment will be updated. 
 
 import elabapi_python
 import csv
